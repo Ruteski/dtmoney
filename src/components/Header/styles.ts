@@ -8,7 +8,7 @@ export const Content = styled.div`
    max-width: 1120px;
    margin: 0 auto; // centraliza o conteudo
 
-   padding: 2rem 1rem 12rem; // 1rem = 16px -> 16px nas laterais e 160px embaixo
+   padding: 2rem 1rem 10rem; // 1rem = 16px -> 16px nas laterais e 160px embaixo
    display: flex;
    align-items: center;
    justify-content: space-between;
